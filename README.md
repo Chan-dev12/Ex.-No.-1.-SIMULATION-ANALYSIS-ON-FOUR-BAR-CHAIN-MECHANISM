@@ -52,8 +52,8 @@
 ![Screenshot 2024-12-03 150418](https://github.com/user-attachments/assets/72eabb61-075e-4fbf-8827-d6493895f29e)
 
 
-### Name:A rafshaan ahmed
-### Register Number: 24005401
+### Name:V CHANTHRU
+### Register Number: 212224240027
 
 ## RESULT:Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
